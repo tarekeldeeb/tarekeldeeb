@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salam,+There!+👋;This+is+Tarek+Eldeeb!;Nice+to+meet+you+😄&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salam,+there!+👋;This+is+Tarek+Eldeeb!;Nice+to+meet+you+😄&center=true&size=30">
 </h1>
 
 - 🔭 I’m currently working on [QuranQuiz.net](https://quranquiz.net/)
