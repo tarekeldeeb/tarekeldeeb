@@ -10,4 +10,4 @@
 - ⚡ Feel free to read [my blog](https://tarekeldeeb.github.io) or see [my resume](https://tarekeldeeb.github.io/myResume)
 - 📫 How to reach me: tarekeldeeb@msn.com
 
- <img src="https://github-readme-stats.vercel.app/api?username=tarekeldeeb&show_icons=true&theme=react">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekeldeeb&show_icons=true&theme=react&layout=compact">
+ <img src="https://github-readme-stats.vercel.app/api?username=tarekeldeeb&show_icons=true&theme=transparent&hide_border=true&hide=prs">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekeldeeb&show_icons=true&theme=transparent&layout=compact&hide_border=true">
